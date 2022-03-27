@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="323.5" height="33" viewBox="0 0 323.5 33">
+  <g id="Group_5" data-name="Group 5" transform="translate(-282 -147.5)">
+    <g id="Group_8" data-name="Group 8">
+      <path id="Path_1" data-name="Path 1" d="M22.5,7.5A4.5,4.5,0,1,1,18,3a4.5,4.5,0,0,1,4.5,4.5Z" transform="translate(379 146)" fill="none" stroke="#ffcd5d" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_2" data-name="Path 2" d="M18,33V12" transform="translate(379 146)" fill="none" stroke="#ffcd5d" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_3" data-name="Path 3" d="M7.5,18H3a15,15,0,0,0,30,0H28.5" transform="translate(379 146)" fill="none" stroke="#ffcd5d" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+    <g id="Group_7" data-name="Group 7">
+      <path id="Path_1-2" data-name="Path 1" d="M22.5,7.5A4.5,4.5,0,1,1,18,3a4.5,4.5,0,0,1,4.5,4.5Z" transform="translate(443 146)" fill="none" stroke="#c2c2c2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_2-2" data-name="Path 2" d="M18,33V12" transform="translate(443 146)" fill="none" stroke="#c2c2c2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_3-2" data-name="Path 3" d="M7.5,18H3a15,15,0,0,0,30,0H28.5" transform="translate(443 146)" fill="none" stroke="#c2c2c2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+    <g id="Group_10" data-name="Group 10">
+      <path id="Path_1-3" data-name="Path 1" d="M22.5,7.5A4.5,4.5,0,1,1,18,3a4.5,4.5,0,0,1,4.5,4.5Z" transform="translate(507 146)" fill="none" stroke="#c2c2c2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_2-3" data-name="Path 2" d="M18,33V12" transform="translate(507 146)" fill="none" stroke="#c2c2c2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_3-3" data-name="Path 3" d="M7.5,18H3a15,15,0,0,0,30,0H28.5" transform="translate(507 146)" fill="none" stroke="#c2c2c2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+    <path id="Path_1-4" data-name="Path 1" d="M22.5,7.5A4.5,4.5,0,1,1,18,3a4.5,4.5,0,0,1,4.5,4.5Z" transform="translate(571 146)" fill="none" stroke="#c2c2c2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Path_2-4" data-name="Path 2" d="M18,33V12" transform="translate(571 146)" fill="none" stroke="#c2c2c2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Path_3-4" data-name="Path 3" d="M7.5,18H3a15,15,0,0,0,30,0H28.5" transform="translate(571 146)" fill="none" stroke="#c2c2c2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <text id="PROGRESS_" data-name="PROGRESS…" transform="translate(282 170)" fill="#707070" font-size="15" font-family="IBMPlexSans-LightItalic, IBM Plex Sans" font-weight="300" font-style="italic" letter-spacing="0.1em"><tspan x="0" y="0">progress…</tspan></text>
+  </g>
+</svg>
